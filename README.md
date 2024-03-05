@@ -1,2 +1,2 @@
 # BigData
-AGH Big data infrastructure Course, semester 6
+## AGH Big Data Infrastructure Course, semester 6
